@@ -29,7 +29,7 @@ public class CWH_CH2_09_OPERATOR_PRECEDENCE {
         int c = 4;
         int a = 10;
 
-        int k = b*b - (4*a*c)/(2*a); // -7 ans with the highest precedence holding thing The brackets.
+        int k = (b*b - 4*a*c)/(2*a); // -7 ans with the highest precedence holding thing The brackets.
         int k = b*b - 4*a*c/2*a; // -799 answer without brackets.
 
         System.out.println(k);
