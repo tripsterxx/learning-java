@@ -10,7 +10,7 @@ public class CWH_CH2_09_OPERATOR_PRECEDENCE {
             =30-17
             =13
          */
-        
+
         int b = 60/5-34*2;
         System.out.println(b);
         /*
