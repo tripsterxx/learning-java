@@ -64,7 +64,7 @@ public class cwh_14_string_methods {
         // Examples: \n (newline), \t (tab), \’ (single quote), \\ (backslash)
         System.out.println("new line \n next line");
         System.out.println("new tab \t word after tab");
-        System.out.println("\'\'double quoted\'\'");
+        System.out.println("\"double quoted\"");
         System.out.println("backslash\\");
 
     }
