@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class cwh_19_ch4_practiceSet {
     public static void main(String[] args) {
         //Question 2
-        /*
+
         byte m1, m2, m3;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your marks in Physics: ");
@@ -22,10 +22,10 @@ public class cwh_19_ch4_practiceSet {
             System.out.println("Sorry you have not been promoted. please try again");
         }
 
-         */
+
 
         //Question 3
-        /*
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your income in Lakhs per annum: ");
         float income = sc.nextFloat();
@@ -48,9 +48,9 @@ public class cwh_19_ch4_practiceSet {
 
         System.out.println("The total tax is "+tax);
 
-         */
 
-        /*
+
+
         // Question 4
         Scanner sc = new Scanner(System.in);
         System.out.print("enter the number: ");
@@ -66,7 +66,7 @@ public class cwh_19_ch4_practiceSet {
             case 7 -> System.out.println("sunday");
             default -> System.out.println("pls enter between 1 to 7");
         }
-         */
+         
 
         // Question 5
         Scanner sc = new Scanner(System.in);
