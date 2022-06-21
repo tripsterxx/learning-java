@@ -11,9 +11,6 @@ public class cwh_17_logical_operators_in_conditionals {
             System.out.println("N");
         }
 
-
-
-
         System.out.println("For logical OR..");
         boolean a = true;
         boolean b = false;
@@ -23,8 +20,6 @@ public class cwh_17_logical_operators_in_conditionals {
         else {
             System.out.println("N");
         }
-
-        
 
         boolean a = true;
         boolean b = false;
