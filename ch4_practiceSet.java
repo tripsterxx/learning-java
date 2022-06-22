@@ -66,7 +66,7 @@ public class cwh_19_ch4_practiceSet {
             case 7 -> System.out.println("sunday");
             default -> System.out.println("pls enter between 1 to 7");
         }
-         
+
 
         // Question 5
         Scanner sc = new Scanner(System.in);
