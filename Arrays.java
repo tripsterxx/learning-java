@@ -10,18 +10,18 @@ public class cwh_26_Arrays {
 
         // There are three main ways to create an array in java.
         // 1. Declaration and memory allocation.
-        // int [] marks = new int[5];
+         int [] marks = new int[5];
 
         // 2. Declaration and then memory allocation.
-        // int [] marks;
-        // marks = new int[5];
+         int [] marks;
+         marks = new int[5];
 
         // Initialization
-//        marks[0] = 100;
-//        marks[1] = 60;
-//        marks[2] = 70;
-//        marks[3] = 90;
-//        marks[4] = 86;
+        marks[0] = 100;
+        marks[1] = 60;
+        marks[2] = 70;
+        marks[3] = 90;
+        marks[4] = 86;
 
         // 3. Declaration, memory allocation and initialization together
          int [] marks = {100, 20, 80, 45, 71, 69};
