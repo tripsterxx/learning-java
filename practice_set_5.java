@@ -1,38 +1,38 @@
 public class cwh_25_practice_set_5 {
     public static void main(String[] args) {
         // Practice problem 1
-//        int n = 4;
-//        for (int i=n; i>0; i--){
-//
-//            for(int j=0; j<i; j++){
-//                System.out.print("*");
-//            }
-//
-//            System.out.print("\n");
-//        }
+        int n = 4;
+        for (int i=n; i>0; i--){
+
+            for(int j=0; j<i; j++){
+                System.out.print("*");
+            }
+
+            System.out.print("\n");
+        }
 
 
         // Practice problem 2
-//        int sum = 0;
-//        int n = 3;
-//        for (int i= 0 ; i<n ; i++){
-//            sum = sum + (2*i);
-//        }
-//        System.out.println("sum of first 3 even number is: ");
-//        System.out.println(sum);
+        int sum = 0;
+        int n = 3;
+        for (int i= 0 ; i<n ; i++){
+            sum = sum + (2*i);
+        }
+        System.out.println("sum of first 3 even number is: ");
+        System.out.println(sum);
 
 
         // Practice problem 3
-//        int n = 5;
-//        for (int i = 1; i<=10; i++){
-//            System.out.printf("%d * %d = %d \n",n,i,n*i);
-//        }
+        int n = 5;
+        for (int i = 1; i<=10; i++){
+            System.out.printf("%d * %d = %d \n",n,i,n*i);
+        }
 
         // Practice problem 4
-//        int n = 10;
-//        for (int i = 10; i>=1; i--){
-//            System.out.printf("%d * %d = %d \n",n,i,n*i);
-//        }
+        int n = 10;
+        for (int i = 10; i>=1; i--){
+            System.out.printf("%d * %d = %d \n",n,i,n*i);
+        }
 
         // Practice problem 5
         //factorial of a number using for loop
@@ -40,36 +40,36 @@ public class cwh_25_practice_set_5 {
         // factorial of n = n * n-1 * n-2 ... 1
 
 //        int n =5;
-//        int factorial = 1;
-//        for (int i = 1; i<=n; i++){
-//            factorial = factorial * i;
-//            System.out.println(factorial);
-//        }
+        int factorial = 1;
+        for (int i = 1; i<=n; i++){
+            factorial = factorial * i;
+            System.out.println(factorial);
+        }
 
         // Practice problem 6
         // factorial of a number using while loop
         // 5! = 5 *4*3*2*1 or 1*2*3*4*5
-//        int n = 5;
-//        int i = 1;
-//        int factorial = 1;
-//        while (i<n){
-//            factorial *= i;
-//            i++;
-//        }
-//        System.out.println(factorial);
+        int n = 5;
+        int i = 1;
+        int factorial = 1;
+        while (i<n){
+            factorial *= i;
+            i++;
+        }
+        System.out.println(factorial);
 
         // Practice problem 7
-//        int n = 4;
-//        int i=n;
-//        while (i>0){
-//            int j = 0;
-//            while(j<i){
-//                System.out.print("*");
-//                j++;
-//            }
-//            i--;
-//            System.out.print("\n");
-//        }
+        int n = 4;
+        int i=n;
+        while (i>0){
+            int j = 0;
+            while(j<i){
+                System.out.print("*");
+                j++;
+            }
+            i--;
+            System.out.print("\n");
+        }
 
 
         // Practice problem 8
@@ -78,12 +78,12 @@ public class cwh_25_practice_set_5 {
 
 
         // Practice problem 9
-//        int n = 8;
-//        int sum = 0;
-//        for (int i = 1; i<=10; i++){
-//            sum += n*i;
-//        }
-//        System.out.println(sum);
+        int n = 8;
+        int sum = 0;
+        for (int i = 1; i<=10; i++){
+            sum += n*i;
+        }
+        System.out.println(sum);
 
 
         // Practice problem 10
