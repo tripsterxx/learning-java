@@ -12,7 +12,7 @@ public class cwh_27_Arrays_forEachLoop {
         String [] students = {"ash", "rohan", "shubham", "lovish"};
         System.out.println(students.length);
         System.out.println(students[0]);
-         
+
 
          Displaying the array (for loop) (This is in reverse order)
         for (int i= marks.length-1; i>=0; i--){
