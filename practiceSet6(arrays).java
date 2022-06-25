@@ -1,7 +1,7 @@
 public class cwh_29_practiceSet6 {
     public static void main(String[] args) {
         // Practice problem 1
-        /*float [] marks = {5.7f, 67.4f, 34.34f, 32.4f, 65.6f};
+        float [] marks = {5.7f, 67.4f, 34.34f, 32.4f, 65.6f};
         float sum= 0;
         for (float element: marks){
             sum = sum +element;
@@ -122,7 +122,7 @@ public class cwh_29_practiceSet6 {
         }
         System.out.println("the minimum value in the array is: "+ min);
 
-         */
+
 
 
         // Practice problem 8
