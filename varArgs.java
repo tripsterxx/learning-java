@@ -1,7 +1,7 @@
 package com.company;
 
 public class cwh_33_varArgs {
-    /*
+
     static int sum(int a, int b){
         return a+b;
     }
@@ -24,7 +24,7 @@ public class cwh_33_varArgs {
     }
 
 
-     */
+
     public static int sum(int x, int ...arr){
 //        available as int [] arr;
         int result= x;
