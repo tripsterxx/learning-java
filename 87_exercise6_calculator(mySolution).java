@@ -51,7 +51,7 @@ class MaxMultiplierReachedException extends Exception{
     }
 }
 
-class CustomExceptions extends Exception{
+class CustomExceptions {
     public void throwInvalidInputException(){
         try{
             throw new InvalidInputException();
